@@ -1,0 +1,1 @@
+export const ROLES = Object.freeze({user: "USER", third: "THIRD"})
