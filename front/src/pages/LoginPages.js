@@ -112,8 +112,8 @@ export const LoginPage = () => {
                             scrollButtons="auto"
                             aria-label="scrollable auto tabs example"
                         >
-                            <Tab label="Usuarios" {...a11yProps(0)} />
-                            <Tab label="DOCENTES" {...a11yProps(1)} />
+                            <Tab label="CIUDADANOS" {...a11yProps(0)} />
+                            <Tab label="FUNCIONARIOS" {...a11yProps(1)} />
                         </Tabs>
                     
                     <TabPanel value={value} index={0}>

@@ -53,7 +53,7 @@ const LoginGuess = () => {
         >
             <Grid item align="center">
                 <Avatar className={classes.avatarStyle}><LockOutlinedIcon /></Avatar>
-                <h2>Docentes</h2>
+                <h2>Funcionarios</h2>
             </Grid>
             <Grid item align="center">
                 <Formik

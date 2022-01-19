@@ -53,7 +53,7 @@ const LoginUser = () => {
             
             <Grid item align="center">
                 <Avatar className={classes.avatarStyle}><LockOutlinedIcon /></Avatar>
-                <h2>Usuarios</h2>
+                <h2>Ciudadanos</h2>
             </Grid>
             <Grid item align="center">
                 <Formik
